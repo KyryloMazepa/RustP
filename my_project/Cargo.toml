@@ -8,3 +8,6 @@ edition = "2021"
 [[bin]]
 name = "RustPractise1"
 path = "src/RustPractise1.rs"
+
+name = "RustPractiseWorkClassRoom4"
+path = "my_project\src\RustPractiseWorkClassRoom4.rs"
